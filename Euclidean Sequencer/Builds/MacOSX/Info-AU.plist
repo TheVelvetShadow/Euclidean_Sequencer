@@ -8,11 +8,11 @@
     <key>CFBundleIconFile</key>
     <string></string>
     <key>CFBundleIdentifier</key>
-    <string>com.yourcompany.Euclidean_Sequencer</string>
+    <string>com.yourcompany.EuclideanSequencer</string>
     <key>CFBundleName</key>
-    <string>Euclidean_Sequencer</string>
+    <string>Euclidean Sequencer</string>
     <key>CFBundleDisplayName</key>
-    <string>Euclidean_Sequencer</string>
+    <string>Euclidean Sequencer</string>
     <key>CFBundlePackageType</key>
     <string>BNDL</string>
     <key>CFBundleSignature</key>
@@ -29,11 +29,11 @@
     <array>
       <dict>
         <key>name</key>
-        <string>The Velvet Shadow: Euclidean_Sequencer</string>
+        <string>The Velvet Shadow: Euclidean Sequencer</string>
         <key>description</key>
-        <string>Euclidean_Sequencer</string>
+        <string>Euclidean Sequencer</string>
         <key>factoryFunction</key>
-        <string>Euclidean_SequencerAUFactory</string>
+        <string>EuclideanSequencerAUFactory</string>
         <key>manufacturer</key>
         <string>Manu</string>
         <key>type</key>

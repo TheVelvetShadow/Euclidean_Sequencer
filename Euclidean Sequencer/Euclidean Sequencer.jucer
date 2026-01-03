@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="nGBGSu" name="Euclidean_Sequencer" projectType="audioplug"
+<JUCERPROJECT id="nGBGSu" name="Euclidean Sequencer" projectType="audioplug"
               useAppConfig="0" addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1"
               companyWebsite="www.thevelvetshadow.com" pluginCharacteristicsValue="pluginProducesMidiOut,pluginWantsMidiIn"
               pluginManufacturer="The Velvet Shadow" pluginAUMainType="'augn'"
-              pluginVST3Category="Generator,Tools">
-  <MAINGROUP id="nLepl5" name="Euclidean_Sequencer">
+              pluginVST3Category="Instrument,Tools" defines="JUCE_UNIT_TESTS=1">
+  <MAINGROUP id="nLepl5" name="Euclidean Sequencer">
     <GROUP id="{6B2E1FB3-B3DD-A2A5-9ABE-009D6D525405}" name="Source">
       <FILE id="ew3rD2" name="PluginProcessor.cpp" compile="1" resource="0"
-            file="Source/PluginProcessor.cpp"/>
+            file="Source/PluginProcessor.cpp" xcodeResource="0"/>
       <FILE id="pgmUNT" name="PluginProcessor.h" compile="0" resource="0"
-            file="Source/PluginProcessor.h"/>
+            file="Source/PluginProcessor.h" xcodeResource="0"/>
       <FILE id="aZiwL8" name="PluginEditor.cpp" compile="1" resource="0"
-            file="Source/PluginEditor.cpp"/>
+            file="Source/PluginEditor.cpp" xcodeResource="0"/>
       <FILE id="kHw8mD" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
     </GROUP>
   </MAINGROUP>
